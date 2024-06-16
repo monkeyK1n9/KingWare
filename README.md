@@ -1,6 +1,8 @@
 # KingWare
 A ransomware built with C# and running in a VBA script embedded in a word document.
 
+**Disclaimer**: This is an educational project. I totally disengage of any activity one might do with this project.
+
 ## Introduction
 There is a VBA script that runs in the Doc file, encrypting a specific directory (you need to change it for your personnal needs).
 The KingWare project is the class library containing the crypting algorithm, and the DecryptWare is a console application that 
